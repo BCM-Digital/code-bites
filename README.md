@@ -14,8 +14,8 @@
 ## Grading
 Your submissions will be graded on the following (but not restricted to):
 - Code style
-    - Follows best practices/styleguides. E.g.: [PHP FIG PSR-2](http://www.php-fig.org/psr/psr-2/) or [AirBnB JS Styleguide](https://github.com/airbnb/javascript).
-    - Implements OOP methodologies (where applicable) such as SOLID, DRY.
+    - Following best practices/styleguides. E.g.: [PHP FIG PSR-2](http://www.php-fig.org/psr/psr-2/) or [AirBnB JS Styleguide](https://github.com/airbnb/javascript).
+    - Implementing OOP methodologies (where applicable) such as SOLID, DRY.
     - Good use of comments where necessary.
     - Self documenting / declarative code.
 - Git
