@@ -26,7 +26,6 @@ Your submissions will be graded on the following (but not restricted to):
     - Build pipelines (Using Gulp, Webpack, Rollup.js etc).
     - CSS
         - Using methodologies such as [BEM](https://css-tricks.com/bem-101/).
-        - Making use of frameworks/libraries to solve common problems (grids, etc).
     - JS
         - Making use of frameworks/libraries to solve common problems.
 
