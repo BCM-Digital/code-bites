@@ -5,7 +5,8 @@ Your objective is to create a flat HTML page that represents the design below:
 - [Mobile view](https://cloud.githubusercontent.com/assets/26587063/24184509/ffb5e616-0f19-11e7-9010-a4ebf6fddd34.png)
 
 ## Requirements
-- The page should built mobile-first and respond to the vast majority of viewport sizes.
+- The page should be built mobile-first and respond to the vast majority of viewport sizes.
+    - You may interpolate how you see fit the designs for viewports between mobile and desktop.
 - The header and footer should always stay the same height.
     - Header height is **434px**
     - Footer height is **199px**
